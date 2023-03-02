@@ -1,1 +1,1 @@
-jupyter nbextension enable --py --sys-prefix ipyturtle
+jupyter labextension install ipyturtle
