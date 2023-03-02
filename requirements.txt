@@ -1,1 +1,1 @@
-ipyturtle
+ipyturtle>=8.0
