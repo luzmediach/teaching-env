@@ -1,5 +1,4 @@
 ipyturtle
 ipyturtle2
-jupyter-pyturtle
 mobilechelonian
 IPythonDisplayTurtle
