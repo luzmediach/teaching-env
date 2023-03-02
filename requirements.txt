@@ -1,4 +1,1 @@
 ipyturtle
-ipyturtle2
-mobilechelonian
-IPythonDisplayTurtle
