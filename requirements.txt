@@ -1,2 +1,4 @@
-ipyturtle
 ipyturtle3
+matplotlib
+pandas
+numpy
