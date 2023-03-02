@@ -1,5 +1,5 @@
 name: Build Notebook Container
-on: [push] # You may want to trigger this Action on other things than a push
+on: [push] # You may want to trigger this Action on other things than a push.
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,5 +13,6 @@ jobs:
       with:
         DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+        github-token: ${{secrets.GITHUB_TOKEN}}
         BINDER_CACHE: true
         PUBLIC_REGISTRY_CHECK: true
