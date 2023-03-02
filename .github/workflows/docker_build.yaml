@@ -1,5 +1,5 @@
 name: Cache Build on Docker
-on: workflow_dispatch
+on: push
 
 jobs:
   binder:
@@ -8,7 +8,7 @@ jobs:
     - name: Checkout Code
       uses: actions/checkout@v2
       with:
-        ref: ${{ github.event.pull_request.head.sha }}
+        ref: ${{ github.event.ref }}
 
     - name: update jupyter dependencies with repo2docker
       uses: jupyterhub/repo2docker-action@master
