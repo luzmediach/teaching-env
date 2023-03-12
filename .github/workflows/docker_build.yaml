@@ -1,5 +1,5 @@
 name: Cache Build on Docker
-on: push
+on: workflow_dispatch
 
 jobs:
   binder:
