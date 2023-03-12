@@ -1,7 +1,1 @@
 ipyturtle3
-matplotlib
-pandas
-numpy
-plotly
-ipywidgets
-jupyterlab-kite
