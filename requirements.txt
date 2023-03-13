@@ -1,3 +1,5 @@
 nbgitpuller
 ipyturtle3
 ipycanvas
+pandas
+plotly
