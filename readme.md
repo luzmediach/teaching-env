@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luzmediach/teaching/main) :point_left: Launch a binder notebook on this branch
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luzmediach/teaching.git/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fluzmediach%252Fteaching-python.git%26urlpath%3Dlab%252Ftree%252Fteaching-python%252Fdefault.jupyterlab-workspace%26branch%3Dmain) :point_left: Launch binder with content from other repo to teach python.
